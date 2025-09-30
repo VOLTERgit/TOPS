@@ -1,0 +1,10 @@
+name = input("Enter Your Name :")
+brith_date = input("Enter Your Brith_Date :")
+your_age = int(input("Enter Your Age :"))
+your_address = input("Enter Your Address :")
+# -------------------------
+print(f"------------------")
+print(f"Your Name is {name}")
+print(f"Your Brith Date is{brith_date}")
+print(f"Your Age is {your_age}")
+print(f"Your address is {your_address}")
